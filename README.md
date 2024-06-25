@@ -1,4 +1,8 @@
-## Hi there 👋 
+## Hi there 👋
+![board-1273128_1280](https://github.com/bbundnam/bbundnam/assets/145851524/edac2fb3-dea6-489e-9636-84356e324c11)
+
+
+
 
 <!--
 **bbundnam/bbundnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
