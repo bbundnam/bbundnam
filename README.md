@@ -1,7 +1,10 @@
-# Hi!! Welcome to where I live 👋  <img src="https://github.com/bbundnam/bbundnam/assets/145851524/4ab61b7a-c80a-42e4-ac10-e2ea89dabed4" style="width:10%;">
 
+ <img src="https://github.com/bbundnam/bbundnam/assets/145851524/4ab61b7a-c80a-42e4-ac10-e2ea89dabed4" style="width: 50%;">
+
+# Hi!! Welcome to where I live 👋
 
 I'm Sehong, SW & Data Explorer 
+
 
 
 
